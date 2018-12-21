@@ -18,6 +18,7 @@ This repo is primarily for the programming/data science portion of the challenge
 
 All participants should be added to the Google Team Drive.  Please submit your google email account to the slack channel to be added to the folder.  At the completion of the event, your access will be revoked from this Google Team Drive. You are welcome to keep a local copy of your work, but any copies of the original or generated data should be deleted upon completion of the event.
 
+### Disclaimer
 Due to the sensitive nature of the data that Cru is providing for this event, all participants are asked to delete any and all local copies of the data provided and generated during the event  by its completion.  Please do not post, share, or disclose this dataset or any generated derivative outside of the Predicting Professions Challenge participants.  Because we long for the gospel to continue to go out, because Cru often works in restricted areas, and because we long to love people well with the data, please respect these delete requests.
 
 <a name="description" />
