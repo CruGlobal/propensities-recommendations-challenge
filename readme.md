@@ -36,13 +36,15 @@ How do we offer users the right content/experiences at the right time (on the we
 <a name="goals" />
 
 ### Primary Goals:
- * Build a propensity model for content engagement on Cru.org
- * Build a text classifier to label the content viewed on Cru.org based on topics
- * Build a recommender model based on the propensity model, text classifier, and given content attributes
+ * Build a propensity model for content engagement on Cru.org.
+ * Build a text classifier to label the content viewed on Cru.org based on topics.
+ * Build a recommender model based on the propensity model, text classifier, and given content attributes.
+ * Build a content strategy for what to offer people as their next best step on their spiritual growth journeys.
+ * Build a theological/ethical framework or positioning document to describe what a person’s “best next step” on their spiritual journey could/should be.
 
 ### Aspirational / Stretch Goals:
  * Predict the pathways that have the highest likelihood for someone to accept Christ
- * Build a proposed content strategy for user journeys through the content to enhance the existing content and recommend future content
+ * Build a content strategy and schedule to enhance the existing content and recommend future content to give users full journeys from unbelief to belief to multiplying their faith.
  * Build a theological / ethical positioning document describing the possibilities and challenges of using big data, predictive modeling, and personalization to do evangelism and discipleship online.
 
  <a name="background" />
@@ -54,9 +56,9 @@ Cru Digital Missions aims to practice evangelism and discipleship in the digital
 
 That often looks like <b>personalizing people's digital experiences to help them find the right resources/content for them</b>.  As an organization that has been producing resources to help people have life-changing experiences with Jesus for more than 60 years, we've ammased a large library of resources (online and offline content, events, experiences, etc.) that could help people on their spiritual journey, and we continue to produce new content daily.  In recent years, we've began to publish and disseminate our resources online via multiple websites, mobile-apps, and social media channels.  But with such a large library of content, it can be incredibly difficult for our users to find the right resources for their needs, which can mean the gospel isn't heard and our ministry impact is greatly diminished.
 
-As part of our "Known & Moving" initiative, we began to consider how we can better personalize each user's experience.  But to do that, we need to better understand each user's preferences, interests, and goals.  We been aggregating user clickstream behaviors from a large number of our digital properties to build predictive models/algorithms and offer users their right next best step via recommendation enginges and personalization.  Ultimately, we want to help each person find the right content, at the right time, in the right way to help them take their next best step on their spiritual journey towards Christ.  
+As part of our "Known & Moving" initiative, we began to consider how we can better personalize each user's experience.  But to do that, we need to better understand each user's preferences, interests, and goals.  We have been aggregating user clickstream behaviors from a large number of our digital properties to build predictive models/algorithms and offer users their right next best step via recommendation engines and personalization.  Ultimately, we want to help each person find the right content, at the right time, in the right way to help them take their next best step on their spiritual journey towards Christ.  
 
-<b>Can you help Cru grow it's ability to offer *each person* their next best step on their spiritual journey as they visit any of our digital strategies - the places we do evangelism and discipleship online?  Use your skills in or passion for digital to help us see the fulfillment of the great commission through the internet and technology in this generation.</b>
+<b>Can you help Cru grow its ability to offer *each person* their next best step on their spiritual journey as they visit any of our digital strategies - the places we do evangelism and discipleship online?  Use your skills in or passion for digital to help us see the fulfillment of the great commission through the internet and technology in this generation.</b>
 
 <b>For more information on Digital Missions at Cru, visit [www.Cru.org/digitalmissions](www.Cru.org/digitalmissions)</b>
  
@@ -73,13 +75,14 @@ As part of our "Known & Moving" initiative, we began to consider how we can bett
  * Digital Marketers
  * Content Strategists
  * Digital Product Strategists
- * Any Fascinated by Theology & Ethics in the Digital world
+ * Anyone Fascinated by Theology & Ethics in the Digital world
 
 <a name="questions" />
 
 ### Questions We're Asking Participants:
  * Data Science
    * How likely is someone to engage in various types of evangelistic or growth content?
+   * How likely would it be for someone to have made a profession of faith based upon their clickstream path?
    * How could we offer people their next best step on their spiritual journey towards Christ?
    * What topics can you surface in the content that lives on Cru.org?
    * What else can you do with this data that we're not yet thinking about?
@@ -90,10 +93,10 @@ As part of our "Known & Moving" initiative, we began to consider how we can bett
    * How do we account for new steps of faith?
    * What does it mean to move someone on their spiritual journey?  Can you do that via reading/recommending content?
    * What other strategies should we be considering to help people take their best next step?
- * Theology & Ethics of Digital Strategies
-   * What does it mean for the missions world to have all this data?  And how should we use it?
-   * What does it mean to have spiritual growth? Can it be measured?  If so, how?
+ * Theology & Ethics of Digital Missions
    * What could define a person's "best" next step?  How would you determine that in face-to-face ministry?  Are there any digital parallels?
+   * What does it mean to have spiritual growth? Can it be measured?  If so, how?
+   * What does it mean for the missions world to have all this data?  And how should we use it?
    * What are behavioral indicators we could observe for personal growth?
    * What are the biblical parallels between personalization and gospel conversations?
 
@@ -101,4 +104,6 @@ As part of our "Known & Moving" initiative, we began to consider how we can bett
 
 ## How to use this repo
  * Supporting documentation is primarily stored as Python Notebooks.
- * All your work should be saved in the 'Participant Folder' under a unique folder with your name ('first_last', i.e. 'wes_brooks') - see the folder for an example.
+ * All your work should be saved in the 'Participant Folder' in the git repo or in the google drive under a unique folder with your name ('first_last', i.e. 'wes_brooks') - see the folder for an example.
+ * If you're writing code, commit your code to your folder in the 'Participant Folder' in the github repo.
+ * Publish any final findings/demonstrations/documentation to the 'Outcomes' folder.
