@@ -1,6 +1,6 @@
-# Welcome to the Predicting Professions Challenge!
+# Welcome to the Propensities+Recommendations Challenge!
 
-## Table of Contents:
+### Table of Contents:
  * [Project Overview](#overview)
    * [Challenge Description](#description)
    * [Project Goals](#goals)
@@ -12,7 +12,7 @@
 
 <a name="overview" />
 
-## Project Overview
+## Propensities+Recommendations for Digital Missions Project Overview
 
 This repo is primarily for the programming/data science portion of the challenge, but can be used by anyone in the project.  If you're not familiar with Git or GitHub, please submit your work/notes via google docs in the google drive folder.
 
@@ -50,20 +50,20 @@ How do we offer users the right content/experiences at the right time (on the we
  <a name="background" />
 
 ## Project Background
-55% of the world’s population now uses the internet, and it’s growing 7% every year.  As more and more people are engaging in the digital world, a new mission field is growing.  We believe that if the goal of missions is to go where people are with the good news of Jesus, we need to send missionaries to the digital world.  That’s what we call Digital Missions. 
+55% of the world’s population now uses the internet, and it’s growing 7% every year.  As more and more people are engaging in the digital world, a new mission field is growing.  We believe that if the goal of missions is to go where people are with the good news of Jesus, we need to send missionaries to the digital world.  That’s what we call Digital Missions.
 
-Cru Digital Missions aims to practice evangelism and discipleship in the digital world.  Because everyone is on a spiritual journey, we create websites, apps, and content that help each person take their next best step in their relationship with Christ.  We steward 100M+ visitors annually on our digital properties.  A few years ago, to focus all our efforts on helping people on their next best step, we began a project called “Known & Moving”, which seeks to <i>Know</i> people in a personal way online, to help them <i>Move</i> on their spiritual journey closer towards Christ.  
+Cru Digital Missions aims to practice evangelism and discipleship in the digital world.  Because everyone is on a spiritual journey, we create websites, apps, and content that help each person take their next best step in their relationship with Christ.  We steward 100M+ visitors annually on our digital properties.  A few years ago, to focus all our efforts on helping people on their next best step, we began a project called “Known & Moving”, which seeks to <i>Know</i> people in a personal way online, to help them <i>Move</i> on their spiritual journey closer towards Christ.
 
 That often looks like <b>personalizing people's digital experiences to help them find the right resources/content for them</b>.  As an organization that has been producing resources to help people have life-changing experiences with Jesus for more than 60 years, we've ammased a large library of resources (online and offline content, events, experiences, etc.) that could help people on their spiritual journey, and we continue to produce new content daily.  In recent years, we've began to publish and disseminate our resources online via multiple websites, mobile-apps, and social media channels.  But with such a large library of content, it can be incredibly difficult for our users to find the right resources for their needs, which can mean the gospel isn't heard and our ministry impact is greatly diminished.
 
-As part of our "Known & Moving" initiative, we began to consider how we can better personalize each user's experience.  But to do that, we need to better understand each user's preferences, interests, and goals.  We have been aggregating user clickstream behaviors from a large number of our digital properties to build predictive models/algorithms and offer users their right next best step via recommendation engines and personalization.  Ultimately, we want to help each person find the right content, at the right time, in the right way to help them take their next best step on their spiritual journey towards Christ.  
+As part of our "Known & Moving" initiative, we began to consider how we can better personalize each user's experience.  But to do that, we need to better understand each user's preferences, interests, and goals.  We have been aggregating user clickstream behaviors from a large number of our digital properties to build predictive models/algorithms and offer users their right next best step via recommendation engines and personalization.  Ultimately, we want to help each person find the right content, at the right time, in the right way to help them take their next best step on their spiritual journey towards Christ.
 
 <b>Can you help Cru grow its ability to offer *each person* their next best step on their spiritual journey as they visit any of our digital strategies - the places we do evangelism and discipleship online?  Use your skills in or passion for digital to help us see the fulfillment of the great commission through the internet and technology in this generation.</b>
 
 <b>For more information on Digital Missions at Cru, visit [www.Cru.org/digitalmissions](www.Cru.org/digitalmissions)</b>
- 
+
 <a name="team" />
- 
+
 ## Who We're Looking For:
 
 <a name="skills" />
@@ -86,7 +86,7 @@ As part of our "Known & Moving" initiative, we began to consider how we can bett
    * How could we offer people their next best step on their spiritual journey towards Christ?
    * What topics can you surface in the content that lives on Cru.org?
    * What else can you do with this data that we're not yet thinking about?
- * Content / Product / Marketing Strategy 
+ * Content / Product / Marketing Strategy
    * What would we offer people for their next best step on their spiritual journey towards Christ?
    * Do we see any gaps in the data of content that’s missing?
    * How should we decide what their next best step is?
