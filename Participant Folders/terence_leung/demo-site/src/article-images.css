@@ -1,0 +1,29 @@
+.img-article1 {
+  background-image: url('./assets/article1.jpg');
+  background-size: cover;
+}
+
+.img-article2 {
+  background-image: url('./assets/article2.jpg');
+  background-size: cover;
+}
+
+.img-article3 {
+  background-image: url('./assets/article3.jpg');
+  background-size: cover;
+}
+
+.img-article4 {
+  background-image: url('./assets/article4.jpg');
+  background-size: cover;
+}
+
+.img-article5 {
+  background-image: url('./assets/article5.jpg');
+  background-size: cover;
+}
+
+.img-article6 {
+  background-image: url('./assets/article6.jpg');
+  background-size: cover;
+}
